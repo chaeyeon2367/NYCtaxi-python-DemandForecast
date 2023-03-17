@@ -13,9 +13,9 @@
 
 ### 2. Mobility data type
 - Vehicle data
-  -> Route, coordinate, spatial data - sensor data
+  : Route, coordinate, spatial data - sensor data
 - Customer Data
-  -> Basic Customer Data - Service History - App Log Data
+  : Basic Customer Data - Service History - App Log Data
 - Public data
-  -> Weather data
-  -> Regional data (administrative area units, etc.)
+  : Weather data
+  : Regional data (administrative area units, etc.)
