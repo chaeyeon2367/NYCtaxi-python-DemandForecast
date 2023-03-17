@@ -1,7 +1,7 @@
 <br/>
 <br/>
 
-# ** NYC Taxi Data Demand Forecast🚕
+# NYC Taxi Data Demand Forecast🚕
 
 <br/>
 <br/>
