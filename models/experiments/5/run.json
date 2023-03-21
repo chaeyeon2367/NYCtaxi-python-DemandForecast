@@ -1,0 +1,72 @@
+{
+  "artifacts": [],
+  "command": "run",
+  "experiment": {
+    "base_dir": "/Users/shim/ml-python-NYCtaxiDemandForecast/models",
+    "dependencies": [
+      "ipython==7.31.1",
+      "ipywidgets==7.6.5",
+      "matplotlib==3.7.1",
+      "numpy==1.21.5",
+      "pandas==1.5.1",
+      "sacred==0.8.4",
+      "scikit-learn==1.1.2"
+    ],
+    "mainfile": null,
+    "name": "nyc-demand-prediction",
+    "repositories": [],
+    "sources": []
+  },
+  "heartbeat": "2023-03-21T12:48:29.960900",
+  "host": {
+    "ENV": {},
+    "cpu": "Apple M1",
+    "hostname": "Shimui-MacBookAir.local",
+    "os": [
+      "Darwin",
+      "macOS-10.16-x86_64-i386-64bit"
+    ],
+    "python_version": "3.9.13"
+  },
+  "meta": {
+    "command": "run",
+    "named_configs": [],
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--id": null,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false
+    }
+  },
+  "resources": [],
+  "result": {
+    "mae": {
+      "score": 34.93516573828874
+    },
+    "mape": {
+      "score": 183.2394141294444
+    },
+    "mse": {
+      "score": 12077.849671262898
+    }
+  },
+  "start_time": "2023-03-21T12:48:27.451023",
+  "status": "COMPLETED",
+  "stop_time": "2023-03-21T12:48:27.955411"
+}

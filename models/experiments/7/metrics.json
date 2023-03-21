@@ -1,0 +1,42 @@
+{
+  "metrics": {
+    "steps": [
+      0
+    ],
+    "timestamps": [
+      "2023-03-21T15:09:22.534238"
+    ],
+    "values": [
+      {
+        "meta": {
+          "column_level_names": [
+            null
+          ],
+          "dtypes": {
+            "mae": "float64",
+            "mape": "float64",
+            "mse": "float64"
+          },
+          "header": [
+            0
+          ],
+          "index": "{\"py/object\": \"pandas.core.indexes.base.Index\", \"values\": \"[\\\"score\\\"]\", \"txt\": true, \"meta\": {\"dtype\": \"object\", \"name\": null}}"
+        },
+        "py/object": "pandas.core.frame.DataFrame",
+        "txt": true,
+        "values": "mape,mae,mse\n185.49776152238297,35.37612090220072,12302.19356314492\n"
+      }
+    ]
+  },
+  "model_name": {
+    "steps": [
+      0
+    ],
+    "timestamps": [
+      "2023-03-21T15:09:22.534216"
+    ],
+    "values": [
+      "RandomForestRegressor"
+    ]
+  }
+}
