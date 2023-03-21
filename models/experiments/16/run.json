@@ -1,0 +1,69 @@
+{
+  "artifacts": [],
+  "command": "run",
+  "experiment": {
+    "base_dir": "/Users/shim/ml-python-NYCtaxiDemandForecast/models",
+    "dependencies": [
+      "ipython==7.31.1",
+      "ipywidgets==7.6.5",
+      "matplotlib==3.7.1",
+      "numpy==1.21.5",
+      "pandas==1.5.1",
+      "sacred==0.8.4",
+      "scikit-learn==1.1.2"
+    ],
+    "mainfile": null,
+    "name": "nyc-demand-prediction",
+    "repositories": [],
+    "sources": []
+  },
+  "fail_trace": [
+    "Traceback (most recent call last):\n",
+    "  File \"/opt/anaconda3/envs/tensorlow/lib/python3.9/site-packages/sacred/config/captured_function.py\", line 42, in captured_function\n    result = wrapped(*args, **kwargs)\n",
+    "  File \"/var/folders/pw/83spn3jj6pg9mztv3ymxgkz80000gn/T/ipykernel_15961/676829772.py\", line 7, in run\n    score = evaluation(y_test_raw, rf_pred)\n",
+    "  File \"/var/folders/pw/83spn3jj6pg9mztv3ymxgkz80000gn/T/ipykernel_15961/576286388.py\", line 3, in evaluation\n    mape = np.mean(np.abs((y_true - y_pred) / y_true)) * 100\n",
+    "ZeroDivisionError: float division by zero\n"
+  ],
+  "heartbeat": "2023-03-21T16:53:05.931242",
+  "host": {
+    "ENV": {},
+    "cpu": "Apple M1",
+    "hostname": "Shimui-MacBookAir.local",
+    "os": [
+      "Darwin",
+      "macOS-10.16-x86_64-i386-64bit"
+    ],
+    "python_version": "3.9.13"
+  },
+  "meta": {
+    "command": "run",
+    "named_configs": [],
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--id": null,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false
+    }
+  },
+  "resources": [],
+  "result": null,
+  "start_time": "2023-03-21T16:53:04.054443",
+  "status": "FAILED",
+  "stop_time": "2023-03-21T16:53:05.932267"
+}
