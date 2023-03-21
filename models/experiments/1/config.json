@@ -1,0 +1,7 @@
+{
+  "learning_rate": 0.1,
+  "max_depth": 5,
+  "n_estimators": 100,
+  "n_jobs": -1,
+  "seed": 430889870
+}
