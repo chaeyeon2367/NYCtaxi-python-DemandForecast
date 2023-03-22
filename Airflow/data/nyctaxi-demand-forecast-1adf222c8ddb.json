@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nyctaxi-demand-forecast",
+  "private_key_id": "1adf222c8ddb42727fdfc9d67bcf6c27e27e812d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+lnH8PEyLDxe/\ng6nGZxOadl+BXqP+6Ar3EGb1b24+iTfJaUjguq5LbYBM2/QXwKHEcStSll1E+vih\nBtORO1kvyN+ZaJG3wZBPjL/It1ex9GqzPG7ZuY+28OeFwtu1de0u73x41p5uOadB\n/nGOsZ7aIZTFbR7DatcXaF5om3MXCL/hzi6L+OjwopbQwkA7s0VbGm119GDi4WZL\nD3ydpM2bo32KS8rnMT9NCFfcQoULl0ZRpAljJpvvUafFsH7qlw0FNGdPhRejQ/xQ\npVYj1tpfYhPZ4mGslf7xKks1TVWgQPfjDz8+JCCwNPNn3xAVwntqbwGIXO23OkT/\nI1jXaCNZAgMBAAECggEAAOzp8ALEfBMlr9XYEIJWPVbsu1XbAO3Kca+aAtjHcM2H\nJ+WZ09bC/b+Kmi2OUhqXH7tNQWXySYjE6CUcHDHjMiIguV1Is4xqh6rRrlrTtc0e\naknGmspauZp0yQoHubPsWhIR8JUyNSG8OpDOuvhEItEFPEzMWJjh++Ew3CreTQt6\nYOytJrEYz3QCVdZDjZGMB3XplFYteA03bfvRTkwmc/F6Vs8o5GgYzeTH64axKTyd\nh4M2KA1CDrfYIEas85PVYNMJ+KVYd2rOprL6e/xBycQF/ZliIYhUQv6lFpZLYA9O\n4IyC33rjF9iUO1PMViWLcC2K1nT664M0AxADdE8/gQKBgQDfkN7u9daVbUCUjrvi\n9/9AyIBAsa4i40hmBR+2k95V7Gn6B2ufjxYjRKNHflClnRLxmABZBK+FcqvAzJ4g\n/EMQqw0Y4eJlFzx5PW5z6dhrMxmqUDcLHiPKknec+6gllbyxDwosw2yhNEvnthRV\nHD2JGA4JWGm/4RJfJYPxdYX4cQKBgQDaPMd1zp3+K6haAS/hwwjuqSx9gZOv+9QU\nx7+0/Yb+Qu1rxAGD/yFgG+lUMEeU3Gk60WyiS8DSzwc98S/THWgSGZX9Tw8lR16F\n4rBFBF2qQCyjY+5DMZCBhaJW2Ux7MEVlFD+0fWKR5EHX+cv9qhks1iNivwpj9P9A\n6QKtew+NaQKBgHoviUf8oDymq0cGA3X2qFDVxBKXiV6T7XukjUKR6k/3l6wI5i8c\nWrMHzl1Ckf0RrcrQklAUmYFLvMbwjfPlKxovAkd5HOy3GFwC0R0Uzy03jm1gzdSL\nsnACQNFRUQLJpYj3eU4huHsaQ+ntv4sMli0ZMoK1CYbPEeVicYxD+OZhAoGBAKhF\nXPY1DhVAzFo5uBW3MFf1EVzkYF+9KNWs/uAq6795E1+YjiKcwbs9Sjej0k2xdWHo\nwH6TMmZZQxg7s8hwUCJEoCXko6T21qcdFxTgPOhc+w4wqzIcMXPs+jNE8Xe6zIcX\nidc9JpefDDXfYa6BTVAI/NfSvcw8x+PgxjPFQ0ShAoGAXzmaRvKNv2k0IEb8ln0y\ntUuYAQ8T0hyG5DwjAyX5iWo1a7OB4PrpsaskLOF8gzBKUoWNFYgyOamDhLRU51iW\nCHPUR1k2hPMimpYcbDK6GBcqWoX/wRyQcENVon7FNUisnDkLQJ1migz2TKxRPuJW\n3tMU4cJQzFY84UIvDB5mV6w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "compute-engine-default-service@nyctaxi-demand-forecast.iam.gserviceaccount.com",
+  "client_id": "105853984011152817506",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/compute-engine-default-service%40nyctaxi-demand-forecast.iam.gserviceaccount.com"
+}
