@@ -92,10 +92,10 @@
        
 - Improving Models
   * Creating new machine learning models
-  * Hyper-parameter tuning (and by extension, AutoML -> Microsoft NNI, etc.) (RE: https://github.com/microsoft/nni 
+  * Hyper-parameter tuning (and by extension, AutoML -> Microsoft NNI, etc.) (Re: https://github.com/microsoft/nni)
   * Demand forecasting using deep learning 
-       *RE 1) https://www.kakaobrain.com/blog/42 
-       *RE 2) https://www.kakaobrain.com/blog/43
+       * Re 1) https://www.kakaobrain.com/blog/42 
+       * Re 2) https://www.kakaobrain.com/blog/43
        
        
 - Learning Methods
