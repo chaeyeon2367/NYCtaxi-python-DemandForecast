@@ -1,0 +1,15 @@
+local: &local
+  project: nyctaxi-demand-forecast
+  jwt: nyctaxi-demand-forecast-1adf222c8ddb.json
+  dataset: taxi_demand_local
+  save_folder: .
+
+development:
+  <<: *local
+
+production:
+  project: nyctaxi-demand-forecast
+  jwt: nyctaxi-demand-forecast-1adf222c8ddb.json
+  dataset: taxi_demand_prod
+  save_folder: /home/airflow/gcs/data/taxi-demand-prediction
+
